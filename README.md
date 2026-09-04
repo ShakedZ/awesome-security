@@ -401,7 +401,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Teller](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 - [cve-ape](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS. 
 - [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
-- [Cynative](https://github.com/cynative/cynative) - Open-source cybersecurity deep research agent for cloud, runtime and code - connects to AWS, GCP, Azure, K8s, GitHub & GitLab. Read-only CLI built in Go.
+- [Cynative](https://github.com/cynative/cynative) - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
 
 ## Terminal
 
